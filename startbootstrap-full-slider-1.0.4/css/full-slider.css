@@ -22,14 +22,15 @@ body {
 /* Background images are set within the HTML using inline CSS, not here */
 
 .fill {
-    width: 100%;
-    height: 100%;
+    height: 1328px;
+    width: 996px;
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
 }
+
 .txt {
     text-align: center;
     color: black;
